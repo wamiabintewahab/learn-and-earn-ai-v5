@@ -12,4 +12,4 @@ For Developers: They can leverage this foundation as a template to build their o
 
 Why are you building this? Your ultimate goal is to build a stellar technical profile capable of securing admission to MIT for Computer Science & Engineering (CSE).
 
-This project acts as the foundational stepping stone to develop your coder mindset, problem-solving capabilities, and deep programming foundation. As you envisioned earlier, you want to build an extraordinary, unique project built entirely on your own logic—which will eventually lead you toward your dream of creating a futuristic programming language and browser IDE
+This project acts as the foundational stepping stone to develop your coder mindset, problem-solving capabilities, and deep programming foundation. As you envisioned earlier, you want to build an extraordinary, unique project built entirely on your own logic—which will eventually lead you toward your dream of creating a futuristic programming language and browser IDE!
